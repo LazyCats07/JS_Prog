@@ -1,0 +1,11 @@
+Operator
+- Aritmatika    - Binary
+- Penugasan     - Binary
+- Perbandingan  - Binary 
+- Lgoika        - Binary
+- String        - Binary
+- Kondisional   - Ternary
+- typeof        - Ternary
+
+Aritmatika sesuai dengan matematika pada umumnya 
+
